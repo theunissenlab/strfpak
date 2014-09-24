@@ -1,0 +1,7 @@
+﻿          
+Help on STRFPAK's "negative firing rate" special option
+
+Most of the time, negative firing rates and negative spikes make no sense; they 
+don't exist.  However, every once and a while they can be conceptually useful.  If 
+that's the case, check this box, and use a raster representation of the neural data 
+where negative spikes are indicated by negative entries in the raster.
